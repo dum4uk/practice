@@ -4,8 +4,8 @@ const navBtnImg = document.querySelector('#nav-btn-img')
 
 navBtn.onclick = () => {
     if (nav.classList.toggle('open')) {
-        navBtnImg.src = "./img/icons/nav-close.svg"
+        navBtnImg.src = "./img/Icons/nav-close.svg"
     } else {
-        navBtnImg.src = "./img/icons/nav-open.svg"
+        navBtnImg.src = "./img/Icons/nav-open.svg"
     }
 }
