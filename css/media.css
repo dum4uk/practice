@@ -32,6 +32,9 @@
         top: 46px;
         right: 30px;
     }
+    .nav.open .nav-button {
+        position: fixed;
+    }
     .header-nav {
         margin-bottom: 50px;
     }
